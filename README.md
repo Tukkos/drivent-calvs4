@@ -6,7 +6,7 @@ Back-end for Driven.t, an event management solution.
 
 ## About
 
-Driven.t is a web browser application with which you can manage every single aspect of your event.
+Driven.t3 is the forth part of an onboarding simulator project in the Driven Bootcamp, everyweek I will have some tasks to solve in this web browser application that can manage every single aspect of an event.
 
 ## How to run for development
 
